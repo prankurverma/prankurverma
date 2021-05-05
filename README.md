@@ -7,7 +7,7 @@
 <h3 align="center">I'm currently working at Cadence Design Systems, India.</h3>
 
 - ⚡ Feel free to browse my portfolio website <a href="https://prankurverma.github.io/" target="blank">here</a>.
-- 🐍 I’m currently working on Verification IP development with C/C++, automation with Python, and debugging stuff around them.
+- 🐍 I’m currently working in Verification IP development with C/C++, automation with Python, and debugging stuff around them.
 - 📫 Reach me via <a href="mailto:vprankur@gmail.com">mail</a>.
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=prankurverma&show_icons=true) -->
