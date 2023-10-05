@@ -4,12 +4,12 @@
       src="https://media.giphy.com/media/3o72Fis3O08ru2BqQ8/giphy.gif" />
 </p>
 <h1 align="center">Hi there👋!</h1>
-<h3 align="center">I'm Prankur, a Software Engineer with a thing for Design, currently working in the VLSI domain @ <br/> Cadence Design Systems, Inc.</h3>
+<h3 align="center">I'm Prankur, a Software Engineer with a thing for Design, currently exploring the VLSI domain.</h3>
 
 <h1></h1>
 
 <!-- - ⚡ Feel free to browse my portfolio website <a href="https://prankurverma.github.io/" target="blank">here</a>. -->
-- 🐍 I’m currently working in Verification IP development with C/C++, automation with Python, and debugging stuff around them.
+- 🐍 I’ve experience in Verification IP development with C/C++, automation with Python, and debugging stuff around them.
 
 <p align='left'> 
   :thought_balloon: My socials&nbsp;&nbsp;
