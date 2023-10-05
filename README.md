@@ -40,8 +40,9 @@
 * :black_nib: My most used editors<br/><br/><img src="https://img.shields.io/badge/Vim-%23019733.svg?logo=vim&logoColor=white&style=for-the-badge" /><img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge" /><img src="https://img.shields.io/badge/Visual%20Studio-%208C7ACC.svg?logo=visual-studio&logoColor=white&style=for-the-badge" />
 
 * Markup languages <br/><br/><img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" /><img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
-
+<!--
 * :rocket: ML frameworks <br/><br/><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+-->
 
 * What I am learning <br/><br/><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 
