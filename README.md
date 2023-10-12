@@ -15,7 +15,7 @@
   :thought_balloon: My socials&nbsp;&nbsp;
 <!-- </p> -->
 <p align="center">
-  <a href='mailto:vprankur@gmail.com' target="blank">
+  <a href='mailto:prankur.connect@gmail.com' target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="vprankur@gmail.com" />
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/prankur-verma/" target="blank">
