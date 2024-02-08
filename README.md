@@ -4,7 +4,7 @@
       src="https://media.giphy.com/media/3o72Fis3O08ru2BqQ8/giphy.gif" />
 </p>
 <h1 align="center">Hi there👋!</h1>
-<h3 align="center">I'm Prankur, a Software Engineer with a thing for Design, currently exploring the VLSI domain.</h3>
+<h3 align="center">I'm Prankur, a Software Engineer with a thing for Design, currently exploring the VLSI domain @Google India.</h3>
 
 <h1></h1>
 
